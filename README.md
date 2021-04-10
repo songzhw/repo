@@ -4,4 +4,5 @@
 
 资源就可以访问了, 如:
 https://songzhw.github.io/repo/favicon.ico  
+https://songzhw.github.io/repo/audio/ka1.mp3
 
